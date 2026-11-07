@@ -82,7 +82,7 @@ h1 {
   padding: clamp(22px, 5vw, 52px);
   border: 1px solid rgba(71, 77, 50, .1);
   border-radius: 28px;
-  background: rgba(255, 255, 255, .94);
+  background: rgba(0, 255, 55, .94);
   box-shadow: 0 22px 60px rgba(67, 71, 45, .12);
 }
 
@@ -176,7 +176,7 @@ h1 {
   border: 1px solid #d9e1c5;
   border-radius: 13px;
   background: #f3f6e9;
-  color: #4e5c31;
+  color: #00a36d;
   font-size: .94rem;
   line-height: 1.45;
   opacity: 0;
